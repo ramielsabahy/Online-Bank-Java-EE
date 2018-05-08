@@ -1,0 +1,30 @@
+.class1{
+	background-color:black;
+	color:#FFF;
+	border-radius:15px;
+	}
+.navbar-default .navbar-nav>li>a{
+	color:white;}
+	li:hover{
+		background-color:white;
+		color:black;}
+#id1:hover{
+	background-color:black;
+	color:white;}
+.container{
+	background-color:#CCC;
+	height:600px;}
+
+.clas1{
+	width:70%;
+	height:400px;
+	margin-top:30px;
+	margin-left:13%;}
+.form-control{
+	margin-top:30px;
+	width:70%;
+	margin-left:13%;}
+#id5:hover{
+	background-color:black;
+	color:white;
+	}
